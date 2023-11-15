@@ -1,0 +1,86 @@
+Contest_ID,CPT,FLEX,FLEX,FLEX,,Sport: Football
+,,,,,,Contest Type: Showdown
+,,,,,,Game Slate: Sun 11/12 8:20 PM ET (1 Event)
+
+,,,,,,Instructions:
+,,,,,,SCROLL RIGHT FOR YOUR CONTEST ID LIST
+,,,,,,1. Create lineups by filling out the Contest_ID and position columns to the left.
+,,,,,,2. Each row represents a single entry.
+,,,,,,"3. To build an entry, select the Contest ID for the contest you would like to enter (provided to the right) and place it in the Contest_ID column."
+,,,,,,4. Complete the entry by placing the unique ID for each card (provided below) into a corresponding position column.
+,,,,,,5. Export this file as a CSV and re-upload it into Reignmakers at: https://www.draftkings.com/nftgames/bulkentry/upload
+,,,,,,
+,,,,,,Reminders:
+,,,,,,1. Cards must remain in your RM collection to be accepted.
+,,,,,,2. Cards must not be in another active Reignmakers entry to be accepted.
+,,,,,,3. Cards must map to an eligible position to be accepted.
+,,,,,,4. All columns in each row must be filled out for the lineup to be accepted.
+,,,,,,"5. Lineups must meet any contest rarity or other gating requirements (superstar, or series etc)."
+,,,,,,"6. Only contest IDs listed to the right will be accepted."
+,,,,,,"7. The csv will be evaluated from top to bottom, so if a later entry conflicts with an earlier entry, the earlier entry will be entered and the later entry will be rejected."
+,,,,,,8. Cards included in templates are not filtered based on set or other contest attribute requirements.
+,,,,,,"9. For set-restricted contests, double-check that your entries contain only cards from eligible sets."
+
+,,,,,,All Owned Cards Eligible for a Contest of this Slate,,,,,,,,,,,,,,,,,All Contests of Selected Slate
+,,,,,,Position,Name,Status,Card Year,Event Date,Card Rarity,Card Set,Card Edition,Card Key,Unique ID,Roster Pos,Superstar,Game Info,TeamAbbrev,AvgPointsPerGame,InExistingEntry,,Contest ID,Entry Fee,Contest Name,Game Slate,Rarity Tier,Entries Per User,Prizes,Contest Type,Portfolio Gating Rules,Lineup Gating Rules
+,,,,,,QB,Brian Hoyer,Q,2023, ,Core,Play-Action,74,8fc42e2a-d1ba-4a07-8ae4-4c258b741e48,8fc42e2a-d1ba-4a07-8ae4-4c258b741e48+74,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,2.31,No,,153818404,Free,"Showdown - CORE $10K GTD Cash [$1K to 1st] (NYJ vs LV)",Sun 11/12 8:20 PM ET,Core,150,"$10,000.00",Showdown,"","",
+,,,,,,QB,Jimmy Garoppolo, ,2023, ,Core,Play-Action,125,a9cc9fc2-5b53-4bba-b1a5-90be9747ae98,a9cc9fc2-5b53-4bba-b1a5-90be9747ae98+125,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,12.68,No,,153818405,Free,"Showdown - CORE Prize Pack Party [Top 300 RARE Packs, Top 1500 Win] (NYJ vs LV)",Sun 11/12 8:20 PM ET,Core,100,"1200 Packs",Showdown,"","",
+,,,,,,TE,Tyler Conklin, ,2023, ,Core,Play-Action,45,9a73f3df-2ddb-4493-8b61-25cebd12733e,9a73f3df-2ddb-4493-8b61-25cebd12733e+45,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,NYJ,6.91,No,,153818406,Free,"Showdown - CORE $15 DFS FF Millionaire Satellite [Top 100 Win Ticket!] (NYJ vs LV)",Sun 11/12 8:20 PM ET,Core,20,"100 Tickets",Showdown,"","",
+,,,,,,TE,Tyler Conklin, ,2023, ,Core,Play-Action,488,9a73f3df-2ddb-4493-8b61-25cebd12733e,9a73f3df-2ddb-4493-8b61-25cebd12733e+488,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,NYJ,6.91,No,,153818407,Free,"Showdown - RARE $15K GTD Cash [$2K to 1st] (NYJ vs LV)",Sun 11/12 8:20 PM ET,Rare,150,"$15,000.00",Showdown,"","",
+,,,,,,TE,Tyler Conklin, ,2023, ,Core,Play-Action,1783,9a73f3df-2ddb-4493-8b61-25cebd12733e,9a73f3df-2ddb-4493-8b61-25cebd12733e+1783,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,NYJ,6.91,No,,153818408,Free,"Showdown - RARE Prize Pack Party [Top 15 ELITE Packs, Top 415 Win] (NYJ vs LV)",Sun 11/12 8:20 PM ET,Rare,100,"200 Packs",Showdown,"","",
+,,,,,,WR,Hunter Renfrow, ,2023, ,Core,Play-Action,719,e58faa20-6ef6-4b98-9de7-29e8ebd36fd2,e58faa20-6ef6-4b98-9de7-29e8ebd36fd2+719,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,2.71,No,,153818409,Free,"Showdown - RARE $20 DFS FF Millionaire Satellite [Top 100 Win Ticket!] (NYJ vs LV)",Sun 11/12 8:20 PM ET,Rare,20,"100 Tickets",Showdown,"","",
+,,,,,,TE,Austin Hooper,Q,2023, ,Core,Play-Action,125,82d3cb39-6c91-48c9-8235-eda4c95978d6,82d3cb39-6c91-48c9-8235-eda4c95978d6+125,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,2.87,No,,153818410,Free,"Showdown - ELITE $20K GTD Cash [$5K to 1st] (NYJ vs LV)",Sun 11/12 8:20 PM ET,Elite,150,"$20,000.00",Showdown,"","",
+,,,,,,TE,Austin Hooper,Q,2023, ,Core,Play-Action,1808,82d3cb39-6c91-48c9-8235-eda4c95978d6,82d3cb39-6c91-48c9-8235-eda4c95978d6+1808,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,2.87,No,,153818411,Free,"Showdown - ELITE Prize Pack Party [Top 2 LEGENDARY Packs, Top 92 Win] (NYJ vs LV)",Sun 11/12 8:20 PM ET,Elite,100,"80 Packs",Showdown,"","",
+,,,,,,TE,Michael Mayer, ,2023, ,Core,Play-Action,1244,3c88240b-898c-468d-8f4e-1c5a6a268c1a,3c88240b-898c-468d-8f4e-1c5a6a268c1a+1244,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,3.43,No,,153818412,Free,"Showdown - LEGENDARY $20K GTD Cash [$5K to 1st] (NYJ vs LV)",Sun 11/12 8:20 PM ET,Legendary,150,"$20,000.00",Showdown,"","",
+,,,,,,K,Daniel Carlson, ,2023, ,Core,Play-Action,229,14ee91e2-b975-4456-8987-2a4e9043d682,14ee91e2-b975-4456-8987-2a4e9043d682+229,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,6.67,No,,153818413,Free,"Showdown - LEGENDARY Prize Pack Party [REIGNMAKER Pack to 1st, Top 18 Win] (NYJ vs LV)",Sun 11/12 8:20 PM ET,Legendary,100,"12 Packs",Showdown,"","",
+,,,,,,K,Daniel Carlson, ,2023, ,Core,Play-Action,1599,14ee91e2-b975-4456-8987-2a4e9043d682,14ee91e2-b975-4456-8987-2a4e9043d682+1599,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,6.67,No,,153818414,Free,"Showdown - REIGNMAKER $20K GTD Cash [$5K to 1st] (NYJ vs LV)",Sun 11/12 8:20 PM ET,Reignmaker,150,"$20,000.00",Showdown,"","",
+,,,,,,DE,Maxx Crosby,Q,2023, ,Core,Play-Action,261,8d38c757-4932-44f5-8c8f-7cf709971f98,8d38c757-4932-44f5-8c8f-7cf709971f98+261,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,7.00,No,,153818415,Free,"Showdown - REIGNMAKER $4444 DFS FF Millionaire Satellite [Winner Take All] (NYJ vs LV)",Sun 11/12 8:20 PM ET,Reignmaker,20,"1 Ticket",Showdown,"","",
+,,,,,,DE,Tyree Wilson, ,2023, ,Core,Play-Action,578,eb012636-adc6-4aa5-bb4b-0c42d88b30f6,eb012636-adc6-4aa5-bb4b-0c42d88b30f6+578,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,7.00,No,,
+,,,,,,QB,Trevor Siemian, ,2023, ,Core,Play-Action,235,5ba15315-d07e-4487-9a96-10f085692127,5ba15315-d07e-4487-9a96-10f085692127+235,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,NYJ,0.00,No,,
+,,,,,,WR,Garrett Wilson, ,2023, ,Core,Booster,1785,e995afe9-f3d0-4c3e-b8ea-c544ab09cf29,e995afe9-f3d0-4c3e-b8ea-c544ab09cf29+1785,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,NYJ,14.44,No,,
+,,,,,,RB,Zamir White, ,2023, ,Core,Rush,132,c8441d13-864a-4cc1-85e8-90ca969feea0,c8441d13-864a-4cc1-85e8-90ca969feea0+132,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,1.43,No,,
+,,,,,,RB,Zamir White, ,2023, ,Core,Rush,196,c8441d13-864a-4cc1-85e8-90ca969feea0,c8441d13-864a-4cc1-85e8-90ca969feea0+196,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,1.43,No,,
+,,,,,,RB,Zamir White, ,2023, ,Core,Rush,402,c8441d13-864a-4cc1-85e8-90ca969feea0,c8441d13-864a-4cc1-85e8-90ca969feea0+402,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,1.43,No,,
+,,,,,,RB,Zamir White, ,2023, ,Core,Rush,414,c8441d13-864a-4cc1-85e8-90ca969feea0,c8441d13-864a-4cc1-85e8-90ca969feea0+414,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,1.43,No,,
+,,,,,,WR,Jakobi Meyers, ,2023, ,Core,Rush,77,b0515184-1834-4cbf-95c2-6cd1a2c6f238,b0515184-1834-4cbf-95c2-6cd1a2c6f238+77,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,15.24,No,,
+,,,,,,WR,Jakobi Meyers, ,2023, ,Core,Rush,2252,b0515184-1834-4cbf-95c2-6cd1a2c6f238,b0515184-1834-4cbf-95c2-6cd1a2c6f238+2252,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,15.24,No,,
+,,,,,,QB,Jimmy Garoppolo, ,2023, ,Core,Rush,963,51c04c93-7b4f-4fc5-a8b2-48c52f9bfc5f,51c04c93-7b4f-4fc5-a8b2-48c52f9bfc5f+963,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,12.68,No,,
+,,,,,,QB,Jimmy Garoppolo, ,2023, ,Core,Rush,2717,51c04c93-7b4f-4fc5-a8b2-48c52f9bfc5f,51c04c93-7b4f-4fc5-a8b2-48c52f9bfc5f+2717,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,12.68,No,,
+,,,,,,QB,Jimmy Garoppolo, ,2023, ,Core,Rush,2837,51c04c93-7b4f-4fc5-a8b2-48c52f9bfc5f,51c04c93-7b4f-4fc5-a8b2-48c52f9bfc5f+2837,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,12.68,No,,
+,,,,,,TE,Michael Mayer, ,2023, ,Core,Rush,2433,1f86ff37-4e30-4846-9132-7ac94a212929,1f86ff37-4e30-4846-9132-7ac94a212929+2433,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,3.43,No,,
+,,,,,,TE,Michael Mayer, ,2023, ,Core,Rush,2995,1f86ff37-4e30-4846-9132-7ac94a212929,1f86ff37-4e30-4846-9132-7ac94a212929+2995,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,3.43,No,,
+,,,,,,TE,Michael Mayer, ,2023, ,Core,Rush,3024,1f86ff37-4e30-4846-9132-7ac94a212929,1f86ff37-4e30-4846-9132-7ac94a212929+3024,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,3.43,No,,
+,,,,,,TE,Michael Mayer, ,2023, ,Core,Rush,3124,1f86ff37-4e30-4846-9132-7ac94a212929,1f86ff37-4e30-4846-9132-7ac94a212929+3124,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,3.43,No,,
+,,,,,,RB,Josh Jacobs, ,2023, ,Core,Rush,729,e090863b-e1b3-44fa-971b-f8c784844b91,e090863b-e1b3-44fa-971b-f8c784844b91+729,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,14.76,No,,
+,,,,,,RB,Josh Jacobs, ,2023, ,Core,Rush,1645,e090863b-e1b3-44fa-971b-f8c784844b91,e090863b-e1b3-44fa-971b-f8c784844b91+1645,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,14.76,No,,
+,,,,,,RB,Josh Jacobs, ,2023, ,Core,Rush,1790,e090863b-e1b3-44fa-971b-f8c784844b91,e090863b-e1b3-44fa-971b-f8c784844b91+1790,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,14.76,No,,
+,,,,,,RB,Josh Jacobs, ,2023, ,Core,Rush,2297,e090863b-e1b3-44fa-971b-f8c784844b91,e090863b-e1b3-44fa-971b-f8c784844b91+2297,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,14.76,No,,
+,,,,,,QB,Aaron Rodgers,IR,2023, ,Core,Rush,1036,4f836237-ba3a-4a62-82ad-eea6af5dfb39,4f836237-ba3a-4a62-82ad-eea6af5dfb39+1036,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,NYJ,0.00,No,,
+,,,,,,RB,Ameer Abdullah, ,2023, ,Core,Rush,397,8cbbe486-5ed5-4abf-b8df-b1cc712964bc,8cbbe486-5ed5-4abf-b8df-b1cc712964bc+397,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,2.04,No,,
+,,,,,,RB,Ameer Abdullah, ,2023, ,Core,Rush,505,8cbbe486-5ed5-4abf-b8df-b1cc712964bc,8cbbe486-5ed5-4abf-b8df-b1cc712964bc+505,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,2.04,No,,
+,,,,,,RB,Ameer Abdullah, ,2023, ,Core,Rush,602,8cbbe486-5ed5-4abf-b8df-b1cc712964bc,8cbbe486-5ed5-4abf-b8df-b1cc712964bc+602,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,2.04,No,,
+,,,,,,RB,Ameer Abdullah, ,2023, ,Core,Rush,979,8cbbe486-5ed5-4abf-b8df-b1cc712964bc,8cbbe486-5ed5-4abf-b8df-b1cc712964bc+979,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,2.04,No,,
+,,,,,,RB,Ameer Abdullah, ,2023, ,Core,Rush,1024,8cbbe486-5ed5-4abf-b8df-b1cc712964bc,8cbbe486-5ed5-4abf-b8df-b1cc712964bc+1024,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,2.04,No,,
+,,,,,,RB,Ameer Abdullah, ,2023, ,Core,Rush,1203,8cbbe486-5ed5-4abf-b8df-b1cc712964bc,8cbbe486-5ed5-4abf-b8df-b1cc712964bc+1203,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,2.04,No,,
+,,,,,,LB,C.J. Mosley, ,2023, ,Core,Rush,1330,a1bc8f68-3352-403b-ab3d-2e2e4b210692,a1bc8f68-3352-403b-ab3d-2e2e4b210692+1330,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,NYJ,9.13,No,,
+,,,,,,TE,Austin Hooper,Q,2023, ,Core,Rush,297,21afd17b-1db7-4edc-8733-9ad03da93749,21afd17b-1db7-4edc-8733-9ad03da93749+297,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,2.87,No,,
+,,,,,,TE,Austin Hooper,Q,2023, ,Core,Rush,383,21afd17b-1db7-4edc-8733-9ad03da93749,21afd17b-1db7-4edc-8733-9ad03da93749+383,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,2.87,No,,
+,,,,,,TE,Austin Hooper,Q,2023, ,Core,Rush,452,21afd17b-1db7-4edc-8733-9ad03da93749,21afd17b-1db7-4edc-8733-9ad03da93749+452,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,2.87,No,,
+,,,,,,TE,Austin Hooper,Q,2023, ,Core,Rush,1008,21afd17b-1db7-4edc-8733-9ad03da93749,21afd17b-1db7-4edc-8733-9ad03da93749+1008,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,2.87,No,,
+,,,,,,TE,Austin Hooper,Q,2023, ,Core,Rush,1025,21afd17b-1db7-4edc-8733-9ad03da93749,21afd17b-1db7-4edc-8733-9ad03da93749+1025,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,2.87,No,,
+,,,,,,TE,Austin Hooper,Q,2023, ,Core,Rush,1061,21afd17b-1db7-4edc-8733-9ad03da93749,21afd17b-1db7-4edc-8733-9ad03da93749+1061,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,2.87,No,,
+,,,,,,TE,Austin Hooper,Q,2023, ,Core,Rush,2917,21afd17b-1db7-4edc-8733-9ad03da93749,21afd17b-1db7-4edc-8733-9ad03da93749+2917,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,2.87,No,,
+,,,,,,WR,Davante Adams, ,2023, ,Core,Rush,1028,6c9ed77b-4c3a-4d4a-a771-12f846b7f731,6c9ed77b-4c3a-4d4a-a771-12f846b7f731+1028,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,14.37,No,,
+,,,,,,WR,Davante Adams, ,2023, ,Core,Rush,3560,6c9ed77b-4c3a-4d4a-a771-12f846b7f731,6c9ed77b-4c3a-4d4a-a771-12f846b7f731+3560,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,14.37,No,,
+,,,,,,WR,Davante Adams, ,2023, ,Core,Rush,3669,6c9ed77b-4c3a-4d4a-a771-12f846b7f731,6c9ed77b-4c3a-4d4a-a771-12f846b7f731+3669,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,14.37,No,,
+,,,,,,RB,Breece Hall, ,2023, ,Core,Rush,2344,a6c2256c-a6ef-4010-b303-10c3b90acae1,a6c2256c-a6ef-4010-b303-10c3b90acae1+2344,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,NYJ,14.53,No,,
+,,,,,,WR,DeAndre Carter, ,2023, ,Core,Rush,138,d341e4e2-760c-4f88-b63a-339ef81e0339,d341e4e2-760c-4f88-b63a-339ef81e0339+138,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,0.77,No,,
+,,,,,,WR,DeAndre Carter, ,2023, ,Core,Rush,771,d341e4e2-760c-4f88-b63a-339ef81e0339,d341e4e2-760c-4f88-b63a-339ef81e0339+771,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,0.77,No,,
+,,,,,,RB,Zamir White, ,2023, ,Reignmaker,Rush,2,3010f900-9f69-4d12-aac5-89375e953604,3010f900-9f69-4d12-aac5-89375e953604+2,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,1.43,No,,
+,,,,,,WR,Davante Adams, ,2023, ,Rare,Rush,75,13b57b65-facc-4257-b847-07d63d235e1c,13b57b65-facc-4257-b847-07d63d235e1c+75,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,14.37,No,,
+,,,,,,TE,Austin Hooper,Q,2023, ,Elite,Rush,115,3179bf32-b4ae-4be0-8cc4-3c49b8a1a312,3179bf32-b4ae-4be0-8cc4-3c49b8a1a312+115,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,2.87,No,,
+,,,,,,RB,Breece Hall, ,2023, ,Elite,Rush,89,a84d51cc-c6bf-4f53-8cab-658623e24703,a84d51cc-c6bf-4f53-8cab-658623e24703+89,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,NYJ,14.53,No,,
+,,,,,,QB,Jimmy Garoppolo, ,2023, ,Rare,Rush,657,ae60756b-392c-450f-9ae1-65e56b0e5d62,ae60756b-392c-450f-9ae1-65e56b0e5d62+657,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,12.68,No,,
+,,,,,,TE,Michael Mayer, ,2023, ,Elite,Rush,20,4b5473e3-575a-414f-8fdd-3a9491778b14,4b5473e3-575a-414f-8fdd-3a9491778b14+20,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,3.43,No,,
+,,,,,,RB,Josh Jacobs, ,2023, ,Elite,Rush,61,e1c65dd0-11ff-4de0-a008-4b5b72a98aa6,e1c65dd0-11ff-4de0-a008-4b5b72a98aa6+61,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,14.76,No,,
+,,,,,,WR,Davante Adams, ,2023, ,Elite,Rush,102,4e7f9fd8-b22f-4790-90a0-230acc001e55,4e7f9fd8-b22f-4790-90a0-230acc001e55+102,FLEX|CPT,No,NYJ @ LV 11/12 8:20 PM ET,LV,14.37,No,,
